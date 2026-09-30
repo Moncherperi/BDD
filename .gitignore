@@ -1,0 +1,10 @@
+text
+venv/
+.venv/
+env/
+.idea/
+__pycache__/
+*.pyc
+.pytest_cache/
+.benchmarks/
+/reports/
